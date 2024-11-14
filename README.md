@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=BurgerTown)
+![](https://github-readme-stats-six-lilac-17.vercel.app/api?username=BurgerTown&count_private=true)
 
 <!--
 **BurgerTown/BurgerTown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
